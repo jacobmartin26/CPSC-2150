@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cpsc2150.extendedTicTacToe.controllers","l":"GameSetupController"},{"p":"cpsc2150.extendedTicTacToe.controllers","l":"TicTacToeController"}]
